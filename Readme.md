@@ -1,5 +1,5 @@
 Ethan Fulton
-CSC 463 - AI
+CSC 462 - AI
 HW1 - Breadth-First Search & Depth First Search
 
 Program Description:

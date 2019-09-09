@@ -1,7 +1,7 @@
 """
 
   Ethan Fulton
-  CSC 463
+  CSC 462
   HW1 - DFS, BFS
 
 """
